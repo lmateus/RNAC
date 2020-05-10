@@ -1,0 +1,64 @@
+Nombre Estación,Red,Código,Localizador,Lat [°],Lon [°],Elevación [m],Dist. Hip [km],Dist. Epi [km],PGA EW [cm/s^2],PGA NS [cm/s^2],PGA Z [cm/s^2]
+"San Jose del Palmar, Choco, Colombia",CM,PAL,10,4.9,-76.28,675,105,20,3.225,4.928,1.958
+"Armenia, Quindio",CM,ARMEC,10,4.56,-75.66,1554,130,79,3.072,3.069,2.189
+"Calarca, Quindio, Colombia",CM,CCALA,10,4.51,-75.63,1795,133,84,2.37,2.531,1.614
+"Yotoco, Valle, Colombia",CM,YOT,10,3.98,-76.34,1040,132,84,1.219,1.237,0.649
+"Manizales, Caldas, Colombia",CM,MAN1C,10,5.07,-75.52,2199,143,99,1.299,0,1.172
+"Barrio Niza, Manizales",CM,NIZA,10,5.06,-75.47,2240,146,104,0.28,0.235,0.191
+"Volcan Machin, Tolima, Colombia",OM,ANIL,,4.49,-75.4,2300,150,109,2.756,2.511,1.333
+"Villamaria, Caldas",CM,RECRC,10,4.96,-75.35,4136,153,114,0.973,0.612,0.233
+"Villamaria, Caldas, Colombia",CM,GUY2C,10,5.22,-75.36,3605,160,122,0.225,0.178,0.273
+"Ibague, Tolima",CM,IBA1C,10,4.45,-75.24,1289,164,128,0.566,0.612,1.03
+"Ciudad Bolivar, Antioquia, Colombia",CM,CBOC,0,5.86,-76.01,1401,167,131,0.563,0.344,0.383
+"Bahia Malaga, Valle del Cauca, Colombia",CM,MAL,10,4.01,-77.33,112,170,136,0.502,0.901,0.672
+"Cali SGC, Valle",CM,RAC2C,10,3.37,-76.53,988,184,153,0.736,0.868,0.436
+"Ortega, Tolima, Colombia",CM,ORTC,10,3.91,-75.25,446,185,153,0.286,0.37,0.259
+"Jamundi, Valle del Cauca, Colombia",CM,JAMC,10,3.21,-76.67,1760,201,173,0.912,0.937,0.493
+"Jamundi, Valle del Cauca, Colombia",CM,JAMC,0,3.21,-76.67,1760,201,173,1,1,1
+"Norcasia, Caldas, Colombia",CM,NOR,10,5.56,-74.87,536,215,188,0.255,0.257,0.147
+"Medellin, Antioquia, Colombia",CM,MEDEC,10,6.28,-75.59,1552,217,191,0.407,1.155,2.462
+"Prado, Tolima, Colombia",CM,PRA,0,3.71,-74.89,457,223,199,0.181,0.175,0.114
+"Bahia Solano, Choco, Colombia",CM,SOL,10,6.23,-77.41,38,228,203,0.222,0.297,0.167
+"Volcan Nevado del Huila, Cauca, Colombia",CM,MARO,0,2.84,-75.95,2207,239,215,0.748,1.003,0.346
+Embalse de Betania,CM,BET,10,2.72,-75.42,540,267,247,0.108,0.124,0.115
+"Popayan, Cauca, Colombia",CM,POP2,10,2.54,-76.68,1869,268,247,0.476,0.213,0.282
+"Bogota, SGC",CM,BOG,11,4.64,-74.08,2584,272,252,0.049,0.02,0.025
+"Cerro Cruz Verde, Chipaque, Cundinamarca, Colombia",CM,CVER,0,4.52,-74.07,3604,274,254,0.042,0.045,0.047
+"Dabeiba, Antioquia, Colombia",CM,DBB,10,7.02,-76.21,756,274,255,0.081,0.09,0.126
+"San Pablo de Borbur, Boyaca, Colombia",CM,SPBC,10,5.65,-74.07,783,291,272,0.03,0.043,0.018
+"Uribe, Meta, Colombia",CM,URMC,10,3.25,-74.38,725,293,275,0.253,0.293,0.216
+"Isla Gorgona, Guapi, Cauca, Colombia",CM,GR1C,10,3,-78.17,39,297,279,0.042,0.048,0.022
+"Chingaza, Cundinamarca",CM,CHI,0,4.63,-73.74,3140,308,290,0.024,0.027,0.027
+"Puerto Berrio, Antioquia, Colombia",CM,PTB,10,6.54,-74.46,260,308,290,0.113,0.111,0.107
+"Volcan Sotara, Cauca, Colombia",CM,SOTO,0,2.13,-76.61,3795,309,291,0.167,0.128,0.09
+"Garzon, Huila, Colombia",CM,GARC,10,2.19,-75.49,1999,316,299,0.372,0.275,0.342
+"Villavicencio, Meta, Colombia",CM,VIL,10,4.11,-73.69,1109,320,303,0.345,0.339,0.219
+"Punta Ardita, Choco, Colombia",CM,PTA,10,7.15,-77.81,78,330,313,3.981,3.747,1.301
+"Balboa, Cauca - Colombia",CM,BBAC,0,2.02,-77.25,1713,334,318,0.229,0.141,0.066
+"San Jose de Ure, Cordoba, Colombia",CM,URE,10,7.75,-75.53,251,363,348,0.101,0.151,0.06
+"Zaragoza, Antioquia, Colombia",CM,ZAR,0,7.49,-74.86,205,363,349,0.101,0.084,0.055
+"Apartado, Antioquia, Colombia",CM,APAC,10,7.9,-76.58,104,368,353,0.015,0.017,0.011
+"Florencia, Caqueta, Colombia",CM,FLO2,10,1.58,-75.65,365,374,360,0.018,0.029,0.039
+"Barrancabermeja, Santander, Colombia",CM,BRJC,0,6.97,-73.74,108,395,381,0.11,0.103,0.058
+"La Rusia, Boyaca, Colombia",CM,RUS,0,5.89,-73.08,3697,398,384,0.01,0.009,0.006
+"La Macarena, Meta, Colombia",CM,MACC,10,2.15,-73.85,283,414,401,0.053,0.071,0.094
+"Cufino, Narino",CM,CUFI,10,1.23,-77.34,3653,419,406,0.036,0.032,0.018
+"Barichara, Santander, Colombia",CM,BAR2,10,6.59,-73.18,1864,420,407,0.093,0.112,0.045
+"Barichara, Santander, Colombia",CM,BAR2,00,6.59,-73.18,1864,420,407,0.0093,0.0112,0.0045
+"Pasto Obonuco, Narino",CM,PAS1,10,1.19,-77.33,3227,422,410,0.016,0.021,0.009
+"Tumaco, Narino, Colombia",CM,TUM,10,1.82,-78.73,50,430,418,0.036,0.047,0.024
+"Yopal, Casanare, Colombia",CM,YPLC,10,5.4,-72.38,696,458,446,0.063,0.049,0.042
+"Capurgana, Choco, Colombia",CM,CAP2,10,8.64,-77.36,221,461,449,0.096,0.085,0.04
+"Cumbal, Narino, Colombia",CM,CUM,10,0.94,-77.82,3420,465,453,0.633,0.77,0.581
+"Puerto Gaitan, Meta, Colombia",CM,PTGC,0,4.2,-72.13,170,483,472,0.01,0.008,0.011
+"San Jose del Guaviare, Guaviare, Colombia",CM,GUA,10,2.54,-72.63,217,491,480,0.089,0.116,0.086
+"Pamplona, Norte de Santander, Colombia",CM,PAM,10,7.34,-72.7,3676,508,497,0.019,0.017,0.013
+"Ocana, Norte de Santander, Colombia",CM,OCA,10,8.24,-73.32,1264,524,514,0.089,0.075,0.069
+"Puerto Leguizamo, Putumayo, Colombia",CM,PTLC,10,0.17,-74.8,240,547,537,0.015,0.02,0.011
+"Tame, Arauca, Colombia",CM,TAM,10,6.44,-71.79,462,549,539,0.013,0.019,0.014
+"San Jacinto, Bolivar, Colombia",CM,SJC,10,9.9,-75.18,596,598,589,0.005,0.004,0.004
+"San Jose del Palmar, Choco, Colombia",CM,PAL,0,4.9,-76.28,675,105,20,0.3225,0.4928,0.1958
+"Armenia, Quindio",CM,ARMEC,0,4.56,-75.66,1554,130,79,0.3072,0.3069,0.2189
+"Calarca, Quindio, Colombia",CM,CCALA,0,4.51,-75.63,1795,133,84,0.237,0.2531,0.1614
+"San Jose del Guaviare, Guaviare, Colombia",CM,GUA,0,2.54,-72.63,217,491,480,0.0178,0.0232,0.0172
+"Pamplona, Norte de Santander, Colombia",CM,PAM,0,7.34,-72.7,3676,508,497,0.049,0.057,0.023
